@@ -1,0 +1,118 @@
+{
+    "header": {
+      "keySignatures": [
+        {
+          "key": "C",
+          "scale": "major",
+          "ticks": 3840
+        }
+      ],
+      "meta": [],
+      "name": "Electronic Pop",
+      "ppq": 480,
+      "tempos": [
+        {
+          "bpm": 172.99990485005233,
+          "ticks": 3840
+        }
+      ],
+      "timeSignatures": [
+        {
+          "ticks": 3840,
+          "timeSignature": [
+            4,
+            4
+          ],
+          "measures": 0
+        }
+      ]
+    },
+    "tracks": [
+      {
+        "channel": 0,
+        "controlChanges": {},
+        "pitchBends": [],
+        "instrument": {
+          "family": "piano",
+          "number": 0,
+          "name": "acoustic grand piano"
+        },
+        "name": "Electronic Pop",
+        "notes": [
+          {
+            "duration": 0.17341050000000013,
+            "durationTicks": 240,
+            "midi": 36,
+            "name": "C2",
+            "ticks": 3840,
+            "time": 2.774568,
+            "velocity": 0.6299212598425197
+          },
+          {
+            "duration": 0.17341050000000013,
+            "durationTicks": 240,
+            "midi": 38,
+            "name": "D2",
+            "ticks": 4320,
+            "time": 3.1213889999999997,
+            "velocity": 0.6299212598425197
+          },
+          {
+            "duration": 0.17341050000000013,
+            "durationTicks": 240,
+            "midi": 36,
+            "name": "C2",
+            "ticks": 4800,
+            "time": 3.46821,
+            "velocity": 0.6299212598425197
+          },
+          {
+            "duration": 0.17341050000000013,
+            "durationTicks": 240,
+            "midi": 38,
+            "name": "D2",
+            "ticks": 5280,
+            "time": 3.815031,
+            "velocity": 0.6299212598425197
+          },
+          {
+            "duration": 0.17341050000000013,
+            "durationTicks": 240,
+            "midi": 36,
+            "name": "C2",
+            "ticks": 5760,
+            "time": 4.161852,
+            "velocity": 0.6299212598425197
+          },
+          {
+            "duration": 0.17341050000000013,
+            "durationTicks": 240,
+            "midi": 38,
+            "name": "D2",
+            "ticks": 6240,
+            "time": 4.508673,
+            "velocity": 0.6299212598425197
+          },
+          {
+            "duration": 0.17341049999999925,
+            "durationTicks": 240,
+            "midi": 36,
+            "name": "C2",
+            "ticks": 6720,
+            "time": 4.855494,
+            "velocity": 0.6299212598425197
+          },
+          {
+            "duration": 0.17341049999999925,
+            "durationTicks": 240,
+            "midi": 38,
+            "name": "D2",
+            "ticks": 7200,
+            "time": 5.2023150000000005,
+            "velocity": 0.6299212598425197
+          }
+        ],
+        "endOfTrackTicks": 15360
+      }
+    ]
+  }

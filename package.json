@@ -1,0 +1,26 @@
+{
+  "name": "canvas",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "parcel src/index.html --open",
+    "format": "prettier --log-level warn --write src/",
+    "lint": "eslint --fix src/"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "@parcel/config-default": "^2.13.3",
+    "@tsconfig/strictest": "^2.0.5",
+    "@types/p5": "^1.7.6",
+    "eslint": "^9.17.0",
+    "globals": "^15.14.0",
+    "parcel": "^2.13.3",
+    "parcel-reporter-static-files-copy": "^1.5.3",
+    "prettier": "^3.4.2",
+    "typescript-eslint": "^8.18.1"
+  },
+  "dependencies": {
+    "@tonejs/midi": "^2.0.28",
+    "p5": "^1.11.2",
+    "typescript": "^5.7.2"
+  }
+}
